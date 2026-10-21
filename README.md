@@ -73,3 +73,9 @@ python anything_to_video.py info backup.mp4
 # 5. Decode video and auto-merge multi-part sequences:
 python anything_to_video.py decode backup.part1.mp4 C:\Recovered
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) - anyone is free to use, modify, distribute, and build upon it for private or commercial purposes.

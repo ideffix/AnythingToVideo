@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Video and archive files (generated / test files)
+*.mp4
+*.mkv
+*.avi
+*.iso
+*.tar
+*.zip
+
+# Temporary restoration files
+*.restoring
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
